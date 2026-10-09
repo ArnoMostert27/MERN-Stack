@@ -1,0 +1,27 @@
+# Large / private folders
+Recordings/
+PDF Book/
+
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Secrets
+.env
+.env.*
+*password*
+
+# Mac junk files
+__MACOSX/
+.DS_Store
+._*
+
+# Logs
+*.log
+
+# Windows junk
+Thumbs.db
+desktop.ini
